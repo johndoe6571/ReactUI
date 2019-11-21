@@ -2,12 +2,12 @@
   "accounts": [
     {
       "id": 1,
-      "accountName": "hello world",
+      "accountName": "account1",
       "amount": 100
     },
     {
       "id": 2,
-      "accountName": "hello again",
+      "accountName": "account2",
       "amount": 200
     }
   ]
