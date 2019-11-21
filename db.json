@@ -4,9 +4,11 @@
       "id": 1,
       "accountName": "hello world",
       "amount": 100
+    },
+    {
+      "id": 2,
+      "accountName": "hello again",
+      "amount": 200
     }
-  ],
-  "profile": {
-    "name": "fakeaccounts"
-  }
+  ]
 }
